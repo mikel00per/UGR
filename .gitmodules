@@ -55,3 +55,6 @@
 [submodule "Grado/SO"]
 	path = Grado/SO
 	url = git@github.com:mikel00per/SO.git
+[submodule "Grado/SWAP"]
+	path = Grado/SWAP
+	url = git@github.com:mikel00per/SWAP.git
