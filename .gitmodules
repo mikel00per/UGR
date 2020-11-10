@@ -4,3 +4,6 @@
 [submodule "Grado/AC"]
 	path = Grado/AC
 	url = git@github.com:mikel00per/AC.git
+[submodule "Grado/DDSI"]
+	path = Grado/DDSI
+	url = git@github.com:mikel00per/DDSI.git
