@@ -49,3 +49,6 @@
 [submodule "Grado/RI"]
 	path = Grado/RI
 	url = git@github.com:mikel00per/RI.git
+[submodule "Grado/SCD"]
+	path = Grado/SCD
+	url = git@github.com:mikel00per/SCD.git
