@@ -16,3 +16,6 @@
 [submodule "Grado/ED"]
 	path = Grado/ED
 	url = git@github.com:mikel00per/ED.git
+[submodule "Grado/FR"]
+	path = Grado/FR
+	url = git@github.com:mikel00per/FR.git
