@@ -46,3 +46,6 @@
 [submodule "Grado/PPR"]
 	path = Grado/PPR
 	url = git@github.com:mikel00per/PPR.git
+[submodule "Grado/RI"]
+	path = Grado/RI
+	url = git@github.com:mikel00per/RI.git
