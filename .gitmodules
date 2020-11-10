@@ -25,3 +25,6 @@
 [submodule "Grado/IC"]
 	path = Grado/IC
 	url = git@github.com:mikel00per/IC.git
+[submodule "Grado/IG"]
+	path = Grado/IG
+	url = git@github.com:mikel00per/IG.git
