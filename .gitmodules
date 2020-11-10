@@ -40,3 +40,6 @@
 [submodule "Grado/MP"]
 	path = Grado/MP
 	url = git@github.com:mikel00per/MP.git
+[submodule "Grado/PDM"]
+	path = Grado/PDM
+	url = git@github.com:mikel00per/PDM.git
